@@ -9,4 +9,4 @@ A WebApp made alongside CodeLab tutorials to further my knowledge on the service
 - Firebase Performance Monitoring
 - Firebase Hosting
 
-![Firebase Logo](images/firebase-logo.png)
+![Firebase Logo](public/images/firebase.png)
